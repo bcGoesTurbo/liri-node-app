@@ -1,7 +1,4 @@
 # liri-node-app
-In this assignment, you will make LIRI. 
-
-# liri-node-app
 Week 10 (LIRI Bot) Assignment
 
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in one of four parameters and gives you back data:
@@ -66,23 +63,13 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
   * Takes the text from random.txt and runs the song through spotify-this-song command
 
-## Tech used
-- Node.js
-- Twitter NPM Package - https://www.npmjs.com/package/twitter
-- Spotify NPM Package - https://www.npmjs.com/package/spotify
-- Request NPM Package - https://www.npmjs.com/package/request
-
 ## Prerequisites
 ```
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 ```
 
-## Built With
+## Author
 
-* Sublime Text - Text Editor
-
-## Authors
-
-* **Stefanie Ding** - *Node JS* - [Stefanie Ding](https://github.com/StefanieDing)
+* **Brad Cook** 
 
 
