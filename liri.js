@@ -12,6 +12,9 @@ var moment = require("moment");
 //node-spotify-api npm
 var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify);
+// imports colours
+var colors = require('colors');
+
 //vars to capture user inputs.
 var userOption = process.argv[2];
 var inputParameter = process.argv[3];
@@ -36,7 +39,7 @@ function UserInputs(userOption, inputParameter) {
       break;
     default:
       console.log(
-        "Invalid Option. Please type any of the following options: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says"
+        "Invalid Option. Please type any of the following options: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says".brightRed
       );
   }
 }

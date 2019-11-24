@@ -18,3 +18,261 @@ Language: English, Japanese, French
 Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
 Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
 *****************************
+**********MOVIE INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 87%
+Country of Production: USA, UK
+Language: English, Japanese, French
+Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+*****************************
+**********SONG INFO*********
+0
+song name: Circles
+preview song: null
+album: Hollywood's Bleeding
+artist(s): Post Malone
+*****************************
+**********SONG INFO*********
+1
+song name: Crop Circles
+preview song: null
+album: Crop Circles
+artist(s): Jon Bellion
+*****************************
+**********SONG INFO*********
+2
+song name: Circles
+preview song: https://p.scdn.co/mp3-preview/b5e3b5ed3c5361fb7284d9fc5dd5fbfb4b820807?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: 21st Century Hip Hop
+artist(s): B.o.B
+*****************************
+**********SONG INFO*********
+3
+song name: Circles
+preview song: null
+album: i think you think too much of me
+artist(s): EDEN
+*****************************
+**********SONG INFO*********
+4
+song name: Circles
+preview song: null
+album: Misadventures
+artist(s): Pierce The Veil
+*****************************
+**********SONG INFO*********
+5
+song name: Circles
+preview song: https://p.scdn.co/mp3-preview/3adef4fabc4075f9daa248ebbf39fd680c8fa5be?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: Lazy.Files
+artist(s): Snaer.
+*****************************
+**********SONG INFO*********
+6
+song name: Dancin' In Circles
+preview song: null
+album: Joanne (Deluxe)
+artist(s): Lady Gaga
+*****************************
+**********SONG INFO*********
+7
+song name: Circles
+preview song: https://p.scdn.co/mp3-preview/3fdbb24b95111a0cd8d52f2fae4849543ed7a781?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: El Oso
+artist(s): Soul Coughing
+*****************************
+**********SONG INFO*********
+8
+song name: Circles
+preview song: https://p.scdn.co/mp3-preview/dc8bb1421f364bca7d5d8458d6949b2d0d20ebef?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: Morning View
+artist(s): Incubus
+*****************************
+**********SONG INFO*********
+9
+song name: Dark Circles
+preview song: null
+album: Dark Circles
+artist(s): Ryan Beatty
+*****************************
+**********SONG INFO*********
+10
+song name: In Circles - Remastered
+preview song: https://p.scdn.co/mp3-preview/b309b66516e5bca11e9172fce9140a8ab9ba7abf?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: Diary (2009 Edition)
+artist(s): Sunny Day Real Estate
+*****************************
+**********SONG INFO*********
+11
+song name: Circles
+preview song: https://p.scdn.co/mp3-preview/ca7e9e20c3244e2f44af63648d3b4e716edb641f?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: thirty one
+artist(s): Jana Kramer
+*****************************
+**********SONG INFO*********
+12
+song name: Circles
+preview song: null
+album: Hollywood's Bleeding
+artist(s): Post Malone
+*****************************
+**********SONG INFO*********
+13
+song name: Circles
+preview song: https://p.scdn.co/mp3-preview/76f9edac7e904961d40280df8ab701cb8f0117f4?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: American Love Call
+artist(s): Durand Jones & The Indications
+*****************************
+**********SONG INFO*********
+14
+song name: Circles
+preview song: null
+album: Jovian Days
+artist(s): Champagne Drip
+*****************************
+**********SONG INFO*********
+15
+song name: Circles
+preview song: https://p.scdn.co/mp3-preview/b4e34988be36775f6f8bc6754fcb757c5d36f64d?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: Circles
+artist(s): Wyn Starks
+*****************************
+**********SONG INFO*********
+16
+song name: Circles
+preview song: https://p.scdn.co/mp3-preview/8090ca6a5e4e4132c725de23d23f0acc7c156481?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: Equinox
+artist(s): damaa.beats
+*****************************
+**********SONG INFO*********
+17
+song name: Never Ending Circles
+preview song: https://p.scdn.co/mp3-preview/99d774be725a5bb3e2a9d020c2b08a793640e6e4?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: Every Open Eye (Special Edition)
+artist(s): CHVRCHES
+*****************************
+**********SONG INFO*********
+18
+song name: Going In Circles
+preview song: https://p.scdn.co/mp3-preview/86fd796eea01133e3e868c2a7206cb6e3262bcf4?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: Grazin'
+artist(s): The Friends Of Distinction
+*****************************
+**********SONG INFO*********
+19
+song name: Uphill
+preview song: https://p.scdn.co/mp3-preview/4a20e0e584c8daf99afc11205ee150fbde6c94ae?cid=1eaf12d74c3049b48e9b5cfa25ec1ede
+album: Circles
+artist(s): Karin Hammar
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Spilt Milk Ballarat
+Venue Location: Newington
+Date of the Event: 2019-11-30T12:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Bay Dreams - Nelson
+Venue Location: Nelson
+Date of the Event: 2020-01-04T12:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Laneway Festival - Brisbane
+Venue Location: Bowen Hills
+Date of the Event: 2020-02-01T12:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Laneway Festival - Sydney
+Venue Location: Sydney
+Date of the Event: 2020-02-02T12:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Laneway Festival - Adelaide
+Venue Location: Port Adelaide
+Date of the Event: 2020-02-07T12:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Laneway Festival - Melbourne
+Venue Location: Footscray
+Date of the Event: 2020-02-08T12:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Laneway Festival - Fremantle
+Venue Location: Fremantle
+Date of the Event: 2020-02-09T12:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Western Springs Stadium
+Venue Location: Auckland
+Date of the Event: 2020-02-22T18:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Mandalay Bay Events Center
+Venue Location: Las Vegas
+Date of the Event: 2019-12-30T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Mandalay Bay Events Center
+Venue Location: Las Vegas
+Date of the Event: 2019-12-31T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Foro Sol
+Venue Location: Mexico
+Date of the Event: 2020-02-23T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Allianz Parque
+Venue Location: Sao Paulo
+Date of the Event: 2020-03-01T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Mané Garrincha Stadium
+Venue Location: Brasilia
+Date of the Event: 2020-03-03T19:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Esplanada Do Classic Hall
+Venue Location: Recife
+Date of the Event: 2020-03-05T19:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Area Externa Da Jeunesse Arena
+Venue Location: Rio De Janeiro
+Date of the Event: 2020-03-07T19:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Estadio Centenario
+Venue Location: Montevideo
+Date of the Event: 2020-03-10T19:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Campo Argentino De Polo
+Venue Location: Buenos Aires
+Date of the Event: 2020-03-12T19:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Parque Salitre Magico
+Venue Location: Bogota
+Date of the Event: 2020-03-14T19:00:00
+*****************************
