@@ -1,7 +1,17 @@
 # liri-node-app
 Week 10 (LIRI Bot) Assignment
 
-LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in one of four parameters and gives you back data:
+LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in one of four parameters and gives you back data.
+
+## Prerequisites
+```
+- Node.js - Download the latest version of Node https://nodejs.org/en/
+```
+## Getting Started
+
+- Clone down repo.
+- Run command 'npm install' in Terminal or GitBash
+- Run command 'node liri.js' with one of the commands below, then add search text:
 
 * `concert-this`    
 
@@ -10,12 +20,10 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 * `movie-this`
 
 * `do-what-it-says`
-    
-## Getting Started
 
-- Clone down repo.
-- Run command 'npm install' in Terminal or GitBash
-- Run command 'node liri.js' or one of the commands below.
+### When running a command follow it by desired text/search.
+Example:
+node liri.js movie-this inception
 
 ## What Each Command Does
 
@@ -62,12 +70,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 4. `node liri.js do-what-it-says`
 
   * Takes the text from random.txt and runs the song through spotify-this-song command
-
-## Prerequisites
-```
-- Node.js - Download the latest version of Node https://nodejs.org/en/
-```
-
+    
 ## Author
 
 * **Brad Cook** 
