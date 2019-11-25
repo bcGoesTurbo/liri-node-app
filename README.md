@@ -13,13 +13,13 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 - Run command 'npm install' in Terminal or GitBash
 - Run command 'node liri.js' with one of the commands below, then add search text:
 
-* `concert-this`    
+  * `concert-this`    
 
-* `spotify-this-song`
+  * `spotify-this-song`
 
-* `movie-this`
+  * `movie-this`
 
-* `do-what-it-says`
+  * `do-what-it-says`
 
 ### When running a command follow it by desired text/search.
 Example:
